@@ -17,7 +17,6 @@
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oniemikel&repo=gmail-pwa&theme=transparent) -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=oniemikel&no-bg=true&margin-w=15&margin-h=15&column=3&rank=-C,-?)
 
 <p align="left">
   <a href="https://github.com/oniemikel/oniemikel/">
