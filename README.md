@@ -103,11 +103,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=oniemikel&theme=algolia&show_icons=true" />
       <br/>
-      <img src="https://streak-stats.demolab.com?user=oniemikel&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-oniemikel.vercel.app/api?username=oniemikel&theme=algolia&show_icons=true&mode=weekly" alt="GitHub Streak" />
+      <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=oniemikel&theme=dark"
+/>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark" />
+      <img src="https://github-readme-stats-oniemikel.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark" />
       <br/>
       <img src="https://github-profile-trophy.vercel.app/?username=oniemikel&theme=algolia&margin-w=15&margin-h=15&column=3&rank=-C,-?" />
     </td>
