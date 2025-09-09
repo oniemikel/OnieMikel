@@ -98,7 +98,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
 </p>
 
-
 ---
 
 <table>
@@ -106,8 +105,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=oniemikel&theme=algolia&show_icons=true" />
       <br/>
-      <img src="https://streak-stats.demolab.com?user=oniemikel&theme=dark&date_format=%5BY.%5Dn.j" />
-    </td>
+      <img src="https://streak-stats.demolab.com?user=oniemikel&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" />
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark" />
       <br/>
