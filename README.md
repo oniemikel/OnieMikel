@@ -1,12 +1,23 @@
 # Hi, I'm OnieMikel!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=transparent&")
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=oniemikel&theme=monokai&show_icons=true" />
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=oniemikel&theme=monokai&date_format=%5BY.%5Dn.j" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=monokai" />
+      <br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=oniemikel&theme=monokai&margin-w=15&margin-h=15&column=3&rank=-C,-?" />
+    </td>
+  </tr>
+</table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oniemikel&theme=transparent&show_icons=true)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oniemikel&repo=gmail-pwa&theme=transparent) -->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oniemikel&repo=gmail-pwa&theme=transparent)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=oniemikel&no-bg=true&margin-w=15&margin-h=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=oniemikel&no-bg=true&margin-w=15&margin-h=15&column=3&rank=-C,-?)
 
 <p align="left">
   <a href="https://github.com/oniemikel/oniemikel/">
