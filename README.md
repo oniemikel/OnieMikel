@@ -105,7 +105,7 @@
     <td width="55%" align="center">
       <img src="https://github-readme-stats-oniemikel.vercel.app/api?username=oniemikel&theme=algolia&show_icons=true&mode=weekly&coun_private=true&include_all_commits=true" alt="GitHub Stats" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oniemikel&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-osnm.vercel.app?user=oniemikel&theme=github-dark&border_radius=6&mode=weekly&fire=E95353&border=FFFFFF&stroke=FFFFFF&ring=3B82FF&dates=3672FF" />
     </td>
     <td width="54%" align="center">
       <img src="https://github-readme-stats-oniemikel.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark&count_private=true&include_all_commits=true" alt="Top Languages" />
