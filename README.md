@@ -100,21 +100,21 @@
 
 ---
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td width="55%" align="center">
+      <img src="https://github-readme-stats-oniemikel.vercel.app/api?username=oniemikel&theme=algolia&show_icons=true&mode=weekly&coun_private=true&include_all_commits=true" alt="GitHub Stats" />
       <br/>
-      <img src="https://github-readme-stats-oniemikel.vercel.app/api?username=oniemikel&theme=algolia&show_icons=true&mode=weekly" alt="GitHub Streak" />
-      <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=oniemikel&theme=dark"
-/>
-    <td>
-      <img src="https://github-readme-stats-oniemikel.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oniemikel&theme=dark" alt="GitHub Streak" />
+    </td>
+    <td width="54%" align="center">
+      <img src="https://github-readme-stats-oniemikel.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark&count_private=true&include_all_commits=true" alt="Top Languages" />
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=oniemikel&theme=algolia&margin-w=15&margin-h=15&column=3&rank=-C,-?" />
+      <img src="https://github-profile-trophy.vercel.app/?username=oniemikel&theme=algolia&margin-w=15&margin-h=15&column=3&rank=-C,-?" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🔗 Links
