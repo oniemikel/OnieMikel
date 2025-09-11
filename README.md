@@ -21,21 +21,21 @@
   </svg>
 </h1>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/oniemikel/oniemikel/">
-    <img src="https://komarev.com/ghpvc/?username=oniemikel" alt="Profile views" />
+    <img height="25" src="https://komarev.com/ghpvc/?username=oniemikel" alt="Profile views" />
   </a>
   <a href="https://github.com/oniemikel">
-    <img height="20" src="https://img.shields.io/github/followers/oniemikel?label=follow&logo=github&style=flat" />
+    <img height="25" src="https://img.shields.io/github/followers/oniemikel?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://stackoverflow.com/users/5720201/oniemikel">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+    <img height="25" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/oniemikel">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/oniemikel/posts.svg" />
+    <img height="25" src="https://qiita-badge.apiapi.app/s/oniemikel/posts.svg" />
   </a>
   <a href="http://qiita.com/oniemikel">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/oniemikel/contributions.svg" />
+    <img height="25" src="https://qiita-badge.apiapi.app/s/oniemikel/contributions.svg" />
   </a>
 </p>
 
@@ -119,7 +119,7 @@
 
 ## 🔗 Links
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/oniemikel">
     <img height="30" src="https://img.shields.io/github/followers/oniemikel?label=GitHub&logo=github&style=flat" />
   </a>
