@@ -23,9 +23,21 @@
 </h1>
 -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="data:image/svg+xml;utf8,<svg viewBox='0 0 800 100' xmlns='http://www.w3.org/2000/svg'><text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle' font-size='40' font-family='Arial, sans-serif' fill='url(%23grad)'>こんにちは、OnieMikelです！</text><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='%230073ff'><animate attributeName='stop-color' values='%230073ff;%2300ff55;%230073ff' dur='6s' repeatCount='indefinite'/></stop><stop offset='100%' stop-color='%2300d5ff'><animate attributeName='stop-color' values='%2300d5ff;%230073ff;%2300ff55' dur='6s' repeatCount='indefinite'/></stop></linearGradient></defs></svg>" />
+</h1> -->
+
+<h1 align="center">
+  <img src="https://svg-text-gen.vercel.app/api/svg?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81OnieMikel%E3%81%A7%E3%81%99%EF%BC%81
+&fontSize=23
+&fontFamily=Arial,%20sans-serif
+&gradId=grad
+&stops=0%25:%230073ff,100%25:%2300d5ff
+&gradientFillId=grad
+&animations=%5B%7B%22attributeName%22%3A%22stop-color%22%2C%22values%22%3A%22%230073ff%3B%2300ff55%3B%230073ff%22%2C%22dur%22%3A%226s%22%2C%22repeatCount%22%3A%22indefinite%22%7D%2C%7B%22attributeName%22%3A%22stop-color%22%2C%22values%22%3A%22%2300d5ff%3B%230073ff%3B%2300ff55%22%2C%22dur%22%3A%226s%22%2C%22repeatCount%22%3A%22indefinite%22%7D%5D
+" />
 </h1>
+
 
 <p align="center">
   <a href="https://github.com/oniemikel/oniemikel/">
