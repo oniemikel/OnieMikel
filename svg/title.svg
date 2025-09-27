@@ -1,20 +1,22 @@
 <svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-size="40" font-family="Arial, sans-serif" fill="url(#grad)">
-    こんにちは、OnieMikelです！
-  </text>
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0073ff">
-        <animate attributeName="stop-color"
-                  values="#0073ff;#00ff55;#0073ff"
-                  dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#00d5ff">
-        <animate attributeName="stop-color"
-                  values="#00d5ff;#0073ff;#00ff55"
-                  dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
+  <foreignObject x="0" y="0" width="800" height="100">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div style="
+        width:100%; height:100%; display:flex;
+        align-items:center; justify-content:center;
+        font-size:40px; font-family:Arial, sans-serif;
+        background:linear-gradient(90deg,#0073ff,#00ff55,#00d5ff);
+        -webkit-background-clip:text; color:transparent;
+        animation: shift 6s linear infinite;
+      ">
+        こんにちは、OnieMikelです！
+      </div>
+      <style>
+        @keyframes shift {
+          0% { background-position:0% 0%; }
+          100% { background-position:100% 0%; }
+        }
+      </style>
+    </body>
+  </foreignObject>
 </svg>
