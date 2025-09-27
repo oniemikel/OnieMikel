@@ -1,3 +1,4 @@
+<!-- 
 <h1 align="center">
   <svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
@@ -19,6 +20,11 @@
       </linearGradient>
     </defs>
   </svg>
+</h1>
+-->
+
+<h1 align="center">
+  <img src="data:image/svg+xml;utf8,<svg viewBox='0 0 800 100' xmlns='http://www.w3.org/2000/svg'><text x='50%' y='50%' text-anchor='middle' dominant-baseline='middle' font-size='40' font-family='Arial, sans-serif' fill='url(%23grad)'>こんにちは、OnieMikelです！</text><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='%230073ff'><animate attributeName='stop-color' values='%230073ff;%2300ff55;%230073ff' dur='6s' repeatCount='indefinite'/></stop><stop offset='100%' stop-color='%2300d5ff'><animate attributeName='stop-color' values='%2300d5ff;%230073ff;%2300ff55' dur='6s' repeatCount='indefinite'/></stop></linearGradient></defs></svg>" />
 </h1>
 
 <p align="center">
@@ -76,25 +82,24 @@
 
 </details>
 
-
 ## 🚀 Skills
-### 言語(Languages)
-<p align="left">
+<h3 align="center">言語(Languages)</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,js,css,ts,latex" />
 </p>
 
-### フレームワーク/ライブラリ(Frameworks/Libraries)
-<p align="left">
+<h3 align="center">フレームワーク/ライブラリ(Frameworks/Libraries)</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### プラットフォーム/デプロイ/ホスティング(Platforms/Deployment)
-<p align="left">
+<h3 align="center">プラットフォーム/デプロイ/ホスティング(Platforms/Deployment)</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,nodejs" />
 </p>
 
-### エディタ/開発ツール(Editors/DevTools)
-<p align="left">
+<h3 align="center">エディタ/開発ツール(Editors/DevTools)</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
 </p>
 
