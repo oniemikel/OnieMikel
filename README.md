@@ -28,14 +28,7 @@
 </h1> -->
 
 <h1 align="center">
-  <img src="https://svg-text-gen.vercel.app/api/svg?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81OnieMikel%E3%81%A7%E3%81%99%EF%BC%81
-&fontSize=23
-&fontFamily=Arial,%20sans-serif
-&gradId=grad
-&stops=0%25:%230073ff,100%25:%2300d5ff
-&gradientFillId=grad
-&animations=%5B%7B%22attributeName%22%3A%22stop-color%22%2C%22values%22%3A%22%230073ff%3B%2300ff55%3B%230073ff%22%2C%22dur%22%3A%226s%22%2C%22repeatCount%22%3A%22indefinite%22%7D%2C%7B%22attributeName%22%3A%22stop-color%22%2C%22values%22%3A%22%2300d5ff%3B%230073ff%3B%2300ff55%22%2C%22dur%22%3A%226s%22%2C%22repeatCount%22%3A%22indefinite%22%7D%5D
-" />
+  <img src="svg/title.svg" />
 </h1>
 
 

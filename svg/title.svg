@@ -1,0 +1,20 @@
+<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-size="40" font-family="Arial, sans-serif" fill="url(#grad)">
+    こんにちは、OnieMikelです！
+  </text>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0073ff">
+        <animate attributeName="stop-color"
+                  values="#0073ff;#00ff55;#0073ff"
+                  dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00d5ff">
+        <animate attributeName="stop-color"
+                  values="#00d5ff;#0073ff;#00ff55"
+                  dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+</svg>
