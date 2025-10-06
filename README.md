@@ -67,7 +67,7 @@
 ## 🚀 スキル（Skills）
 <h3 align="center">言語(Languages)</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,js,css,ts,latex" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,css,ts,md,latex" />
 </p>
 
 <h3 align="center">フレームワーク/ライブラリ(Frameworks/Libraries)</h3>
