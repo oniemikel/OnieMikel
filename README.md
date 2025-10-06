@@ -58,7 +58,13 @@
 
 </details>
 
-## 🚀 Skills
+## 🪪 所有資格（Certifications）
+
+- 基本情報技術者試験（Fundamental Information Technology Engineer Examination）  
+  *Information-technology Promotion Agency, Japan (IPA)*
+
+
+## 🚀 スキル（Skills）
 <h3 align="center">言語(Languages)</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,js,css,ts,latex" />
@@ -98,7 +104,7 @@
 
 
 
-## 🔗 Links
+## 🔗 リンク（Links）
 
 <p align="center">
   <a href="https://github.com/oniemikel">
