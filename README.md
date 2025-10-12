@@ -60,8 +60,7 @@
 
 ## 🪪 所有資格（Certifications）
 
-- 基本情報技術者試験（Fundamental Information Technology Engineer Examination）  
-  *Information-technology Promotion Agency, Japan (IPA)*
+- 基本情報技術者試験
 
 
 ## 🚀 スキル（Skills）
