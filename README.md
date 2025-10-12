@@ -46,7 +46,7 @@
 ## 👋 About Me
 - 🎓 Learning **social & information sciences** and skills needed for **data science**  
 - 🏃‍♂️ Practicing **triple jump**  
-- 🎹 Play a little **piano**  
+- 🎹 Playing a little **piano**  
 - 💻 Interested in **Web Development**  
 - 🏆 Passionate about **Competitive Programming**
 
