@@ -96,7 +96,7 @@
     <td width="54%" align="center">
       <img src="https://github-readme-stats-oniemikel.vercel.app/api/top-langs?username=oniemikel&show_icons=true&locale=en&theme=github_dark&count_private=true&include_all_commits=true" alt="Top Languages" />
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=oniemikel&theme=algolia&margin-w=15&margin-h=15&column=3&rank=-C,-?" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=oniemikel&theme=algolia&margin-w=15&margin-h=15&column=3&rank=-B-C,-?" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
