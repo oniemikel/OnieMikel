@@ -81,7 +81,7 @@
 
 <h3 align="center">エディタ/開発ツール(Editors/DevTools)</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,unity,blender" />
 </p>
 
 ---
