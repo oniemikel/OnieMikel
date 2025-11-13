@@ -10,7 +10,7 @@
   <a href="https://github.com/oniemikel">
     <img height="25" src="https://img.shields.io/github/followers/oniemikel?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/oniemikel">
+  <a href="https://stackoverflow.com/users/31873128/oniemikel">
     <img height="25" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
   <a href="http://qiita.com/oniemikel">
