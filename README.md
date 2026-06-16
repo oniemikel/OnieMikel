@@ -7,9 +7,9 @@
   <a href="https://github.com/oniemikel/oniemikel/">
     <img height="25" src="https://komarev.com/ghpvc/?username=oniemikel" alt="Profile views" />
   </a>
-  <a href="https://github.com/oniemikel">
+  <!-- <a href="https://github.com/oniemikel">
     <img height="25" src="https://img.shields.io/github/followers/oniemikel?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
   <a href="https://stackoverflow.com/users/31873128/oniemikel">
     <img height="25" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
